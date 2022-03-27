@@ -19,11 +19,11 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
                                    
 **Big-O gösterimini yazınız.**
 
-2^x = n
+Her seferinde yarıya indiği için : 2^x = n
 
-logn kere bu işlemi yapıyoruz;
+Her işlemde O(n) time complex geliyor. BigO = O(n*logn)
 
-BigO = O(n*logn)
+
 
                                     
                                     
