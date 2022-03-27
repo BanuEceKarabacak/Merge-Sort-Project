@@ -21,6 +21,8 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
 
 2^x = n
 
+logn kere bu işlemi yapıyoruz;
+
 BigO = O(n*logn)
 
                                     
