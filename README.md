@@ -17,6 +17,11 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
                                     \                /
                                    [8,11,12,16,21,22]
                                    
-**Big-O gösterimini yazınız.
+**Big-O gösterimini yazınız.**
+
+2^x = n
+
+BigO = O(n*logn)
+
                                     
                                     
